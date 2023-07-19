@@ -1,2 +1,2 @@
 "use strict";
-consolog("hello");
+consol log("hello");
